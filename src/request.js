@@ -1,4 +1,4 @@
-const API_KEY = '';
+const API_KEY = '30e5e57d6dd4477548abf0225b111ce1';
 
 export const requests = {
 	feachTrending:`/trending/all/week?api_key=${API_KEY}&language=en-us`,
